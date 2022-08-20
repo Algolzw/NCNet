@@ -1,6 +1,6 @@
 ## [AIM 2022] Fast Nearest Convolution for Real-Time Image Super-Resolution
 
-
+![ts](figs/ts.png)
 
 ### Dependencies
 - OS: Ubuntu 18.04
