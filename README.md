@@ -2,6 +2,9 @@
 
 ![ts](figs/ts.png)
 
+### Update
+[**2022.08.25**] We have uploaded the pretrained model in Releases as [V1.0](https://github.com/Algolzw/NCNet/releases/tag/V1.0)
+
 ### Dependencies
 - OS: Ubuntu 18.04
 - Python: Python 3.7
