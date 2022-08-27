@@ -1,4 +1,4 @@
-## [AIM 2022] Fast Nearest Convolution for Real-Time Image Super-Resolution
+## Fast Nearest Convolution for Real-Time Image Super-Resolution, AIM & ECCV Workshops 2022
 
 ![ts](figs/ts.png)
 
