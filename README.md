@@ -47,11 +47,25 @@ python test_tflite.py
 ```
 Then the results of TFLite model will be saved in ```results ``` folder.
 
-
-
 ### Other Details
 
 * The input image range is [0, 255].
 * Number of parameters: 52,279 (53K)
 * Average PSNR on DIV2K validation data: 30.27 dB
 * Training data: DIV2K.
+
+## Citations
+If this repo helps your research or work, please consider citing our work.
+The following is a BibTeX reference.
+
+```
+@article{luo2022fast,
+  title={Fast Nearest Convolution for Real-Time Efficient Image Super-Resolution},
+  author={Luo, Ziwei and Li, Youwei and Yu, Lei and Wu, Qi and Wen, Zhihong and Fan, Haoqiang and Liu, Shuaicheng},
+  journal={arXiv preprint arXiv:2208.11609},
+  year={2022}
+}
+```
+
+## Contact
+email: [ziwei.ro@gmail.com]
