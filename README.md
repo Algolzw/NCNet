@@ -16,6 +16,8 @@
 
 ### Performance of our Nearest Convolution
 
+![speed](figs/speed.png)
+
 |  Upsample methods   | CPU  | GPU | NPU | PSNR |
 |  ----  | ----  | ----  | ----  | ----  |
 | nearest  | 23.1ms | **19.0ms** | 55.0ms | 26.67 |
