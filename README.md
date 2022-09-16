@@ -14,6 +14,14 @@
    - cudnn: 8.1.0
 - Other reference requirements
 
+### Performance of our Nearest Convolution
+
+|  Upsample methods   | CPU  | GPU | NPU | PSNR |
+|  ----  | ----  | ----  | ----  | ----  |
+| nearest  | 23.1ms | **19.0ms** | 55.0ms | 26.67 |
+| bilinear  | 77.7ms | 21.0ms | 128.2ms | **27.67** |
+| Conv3+depth2space  | 30.8ms | 26.5ms | 43.8ms | - |
+| NearestConv+depth2space  | **15.9ms** | 20.3ms | **14.8ms** | 26.67 |
 
 ### Model Training
 ```python3
