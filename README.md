@@ -3,6 +3,8 @@
 ![ts](figs/ts.png)
 
 ### Update
+[**2022.11.14**] A more flexible implementation of the nearest convolution initialization is provided in [this issue](https://github.com/Algolzw/NCNet/issues/5).
+
 [**2022.11.12**] We provide a simple implementation of [NCNet model](https://github.com/Algolzw/NCNet/blob/main/torch_code/ncnet.py) using PyTorch in this [torch_code](https://github.com/Algolzw/NCNet/tree/main/torch_code) directory.
 
 [**2022.08.25**] We have uploaded the pretrained model in Releases as [V1.0](https://github.com/Algolzw/NCNet/releases/tag/V1.0)
