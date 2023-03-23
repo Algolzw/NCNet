@@ -65,11 +65,13 @@ If this repo helps your research or work, please consider citing our work.
 The following is a BibTeX reference.
 
 ```
-@article{luo2022fast,
-  title={Fast Nearest Convolution for Real-Time Efficient Image Super-Resolution},
+@inproceedings{luo2023fast,
+  title={Fast nearest convolution for real-time efficient image super-resolution},
   author={Luo, Ziwei and Li, Youwei and Yu, Lei and Wu, Qi and Wen, Zhihong and Fan, Haoqiang and Liu, Shuaicheng},
-  journal={arXiv preprint arXiv:2208.11609},
-  year={2022}
+  booktitle={Computer Vision--ECCV 2022 Workshops: Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part II},
+  pages={561--572},
+  year={2023},
+  organization={Springer}
 }
 ```
 
